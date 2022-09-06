@@ -1,8 +1,8 @@
 ---
-title: "Hugo and It's future"
+title: "About - Chi sono"
 date: 2020-09-07T20:18:07+06:00
 featureImage: images/blog/blog-post-5.jpg
-author: Juhair Islam
+author: Andrea Festi
 authorThumb: images/client/client-3.png
 ---
 

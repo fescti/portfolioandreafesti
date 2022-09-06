@@ -1,7 +1,7 @@
 # MAIN base
 baseURL = "https://portfoliofestiandrea.netlify.app"
 languageCode = "en-us"
-title = "Apsho | App landing template"
+title = "Andrea Festi | Sito ufficiali di Andrea Festi"
 theme = "apsho"
 
 # Navigation Bar
@@ -11,7 +11,7 @@ theme = "apsho"
     weight = 1
 [[menu.main]]
     name = "About"
-    url = "#feature"
+    url = "about"
     weight = 2
 [[menu.main]]
     name = "Services"
@@ -42,15 +42,16 @@ theme = "apsho"
 
 # Footer Address
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "apsho@example.com"
-phone = "+(448) 833 5272 332"
+address = "Trento (TN), Italia"
+email = "festi.andrea@gmail.com"
+phone = "340 87 28 017"
 
 # Footer Social
 [params.social]
-facebook = "https://www.facebook.com/pg/staticmania"
-twitter = "https://twitter.com/static_mania"
-github = "https://github.com/StaticMania"
+facebook = "https://www.facebook.com/festi.andrea95"
+instagram="https://www.instagram.com/andrea_festi/"
+#twitter = ""
+#github = ""
 
 [params]
 
@@ -60,9 +61,9 @@ fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = "UA-175025671-2"
 
 # Footer
-footerTitle = "Get the latest app updates"
+footerTitle = "Rimaniano in contatto"
 copyright1 = "All right reserved"
-copyright2 = "Copyright ©  <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a> {year}"
+copyright2 = "Copyright ©  <a href=\"https://www.linkedin.com/in/andreafesti\" target=\"_blank\">Andrea Festi </a> {year}"
 
 #contact
-email = "help@staticmania.com"
+email = "festi.andrea@gmail.com"
