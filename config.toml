@@ -49,7 +49,9 @@ phone = "340 87 28 017"
 # Footer Social
 [params.social]
 facebook = "https://www.facebook.com/festi.andrea95"
-instagram="https://www.instagram.com/andrea_festi/"
+instagram = "https://www.instagram.com/andrea_festi"
+linkedin = "https://www.linkedin.com/in/andreafesti"
+youtube = "https://www.youtube.com/c/AndreaFesti"
 #twitter = ""
 #github = ""
 
