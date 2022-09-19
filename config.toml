@@ -1,71 +1,53 @@
-# MAIN base
 baseURL = "https://portfoliofestiandrea.netlify.app"
 languageCode = "en-us"
-title = "Andrea Festi | Sito ufficiali di Andrea Festi"
 theme = "apsho"
-
-# Navigation Bar
+title = "Andrea Festi | Sito ufficiali di Andrea Festi"
 [[menu.main]]
-    name = "Home"
-    url = "#hero"
-    weight = 1
+name = "Blog"
+url = "#blog"
+weight = 4
 [[menu.main]]
-    name = "About"
-    url = "/blog/about"
-    weight = 2
+name = "Services"
+url = "#faq"
+weight = 3
 [[menu.main]]
-    name = "Services"
-    url = "#faq"
-    weight = 3
+name = "About"
+url = "/blog/about"
+weight = 2
 [[menu.main]]
-    name = "Blog"
-    url = "#blog"
-    weight = 4
-
-# Footer Sitemap
+name = "Home"
+url = "#hero"
+weight = 1
 [[menu.sitemap]]
-    name = "Home"
-    url = "#"
-    weight = 1
+name = "Contact"
+url = "/contact"
+weight = 4
 [[menu.sitemap]]
-    name = "Latest Article"
-    url = "/blog"
-    weight = 2
+name = "Privacy & Policy"
+url = "/privacy"
+weight = 3
 [[menu.sitemap]]
-    name = "Privacy & Policy"
-    url = "/privacy"
-    weight = 3
+name = "Latest Article"
+url = "/blog"
+weight = 2
 [[menu.sitemap]]
-    name = "Contact"
-    url = "/contact"
-    weight = 4
-
-# Footer Address
+name = "Home"
+url = "#"
+weight = 1
+[params]
+copyright1 = "All right reserved"
+copyright2 = "Copyright ©  <a href=\"https://www.linkedin.com/in/andreafesti\" target=\"_blank\">Andrea Festi </a> {year}"
+email = "festi.andrea@gmail.com"
+fabFormURL = "https://fabform.io/f/zWMBVeW"
+footerTitle = "Rimaniano in contatto"
+googleAnalytics = "UA-175025671-2"
+logo = "images/logo.svg"
 [params.address]
 address = "Trento (TN), Italia"
 email = "festi.andrea@gmail.com"
 phone = "340 87 28 017"
-
-# Footer Social
 [params.social]
 facebook = "https://www.facebook.com/festi.andrea95"
 instagram = "https://www.instagram.com/andrea_festi"
 linkedin = "https://www.linkedin.com/in/andreafesti"
 youtube = "https://www.youtube.com/c/AndreaFesti"
-#twitter = ""
-#github = ""
-
-[params]
-
-# Header
-logo = "images/logo.svg"
-fabFormURL = "https://fabform.io/f/zWMBVeW"
-googleAnalytics = "UA-175025671-2"
-
-# Footer
-footerTitle = "Rimaniano in contatto"
-copyright1 = "All right reserved"
-copyright2 = "Copyright ©  <a href=\"https://www.linkedin.com/in/andreafesti\" target=\"_blank\">Andrea Festi </a> {year}"
-
-#contact
-email = "festi.andrea@gmail.com"
