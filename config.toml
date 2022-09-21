@@ -4,7 +4,7 @@ theme = "apsho"
 title = "Andrea Festi | Sito ufficiali di Andrea Festi"
 [[menu.main]]
 name = "Blog"
-url = "#blog"
+url = "/blog"
 weight = 4
 [[menu.main]]
 name = "Services"
