@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: Non ancora convinto? Ecco alcune features
+services:
+  - icon: ti-rocket
+    title: Veloce
+    description: Controlla qualsiasi computo in pochi secondi!
+
+  - icon: ti-check-box
+    title: Mai più errori
+    description: Non temere, controlliamo noi le voci per te!
+
+  - icon: ti-key
+    title: Accesso limitato
+    description: Entra in un'esperienza unica grazie alle tue credenziali!

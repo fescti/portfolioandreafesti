@@ -7,7 +7,7 @@ name = "Blog"
 url = "/blog"
 weight = 4
 [[menu.main]]
-name = "Services"
+name = "PROGETTI"
 url = "#faq"
 weight = 3
 [[menu.main]]
