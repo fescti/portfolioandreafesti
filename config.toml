@@ -1,10 +1,10 @@
 baseURL = "https://portfoliofestiandrea.netlify.app"
 languageCode = "en-us"
 theme = "apsho"
-title = "Andrea Festi | Sito ufficiali di Andrea Festi"
+title = "Andrea Festi | Ingegnere"
 [[menu.main]]
 name = "Blog"
-url = "/blog"
+url = "blog"
 weight = 4
 [[menu.main]]
 name = "PROGETTI"
@@ -12,7 +12,7 @@ url = "#faq"
 weight = 3
 [[menu.main]]
 name = "About"
-url = "/blog/about"
+url = "blog/about"
 weight = 2
 [[menu.main]]
 name = "Home"
@@ -20,7 +20,7 @@ url = "#hero"
 weight = 1
 [[menu.sitemap]]
 name = "Contact"
-url = "/contact"
+url = "contact"
 weight = 4
 [[menu.sitemap]]
 name = "Privacy & Policy"

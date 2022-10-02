@@ -3,7 +3,7 @@ title: "Know when to take break"
 date: 2020-09-04T20:18:07+06:00
 featureImage: images/blog/blog-post-6.jpg
 author: Filthy Frank
-authorThumb: images/client/client-2.png
+authorThumb: images/client/client-1.png
 
 ---
 
